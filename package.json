@@ -1,0 +1,22 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000W\u0000e\u0000b\u0000A\u0000p\u0000i\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizbittar/WebApi.git"
+  },
+  "author": "Luiz C. Bittar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizbittar/WebApi/issues"
+  },
+  "homepage": "https://github.com/luizbittar/WebApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
